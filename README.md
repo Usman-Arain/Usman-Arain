@@ -32,6 +32,9 @@ Here are some of the projects I've worked on:
 - [Electronic_voting_Machine](https://github.com/Usman-Arain/Electronic_Voting_Machine)
 - [Degree_Verification_System](https://github.com/Usman-Arain/Degree_Verification_System)
 
+## Stats
+![adminera's GitHub stats](https://github-readme-stats.vercel.app/api?username=adminera&show_icons=true&theme=tokyonight)
+
 ## 🌟 Thanks
 
 I want to thank you for taking the time to visit my GitHub profile. I'm always looking for new opportunities to learn and grow as a developer, so please don't hesitate to get in touch.
