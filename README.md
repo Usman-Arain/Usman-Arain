@@ -31,3 +31,5 @@ Here are some of the projects I've worked on:
 I want to thank you for taking the time to visit my GitHub profile. I'm always looking for new opportunities to learn and grow as a developer, so please don't hesitate to get in touch.
 
 Happy coding! 🚀
+
+![](https://komarev.com/ghpvc/?username=usman-arain)
