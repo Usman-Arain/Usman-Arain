@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 - [Degree_Verification_System](https://github.com/Usman-Arain/Degree_Verification_System)
 
 ## Stats
-![adminera's GitHub stats](https://github-readme-stats.vercel.app/api?username=adminera&show_icons=true&theme=tokyonight)
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-arain&show_icons=true&theme=tokyonight)
 
 ## 🌟 Thanks
 
