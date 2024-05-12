@@ -14,16 +14,6 @@ Here are some of the tools and technologies that I'm familiar with:
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org/)
 
-## 📚 Learning
-
-I'm currently working on improving my skills in Java and learning new technologies. Here are some of the topics I'm focusing on:
-
-- [![Java 8 Streams and Lambda Expressions](https://img.shields.io/badge/Java%208-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
-- [![Java 11 and beyond](https://img.shields.io/badge/Java%2011-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
-- [![Dependency Injection with Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/quickstart)
-- [![JPA and Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/documentation/5.4/)
-- [![Unit Testing with JUnit and Mockito](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
-
 ## 💻 Projects
 
 Here are some of the projects I've worked on:
@@ -32,7 +22,8 @@ Here are some of the projects I've worked on:
 - [Electronic_voting_Machine](https://github.com/Usman-Arain/Electronic_Voting_Machine)
 - [Degree_Verification_System](https://github.com/Usman-Arain/Degree_Verification_System)
 
-## Stats
+## 🧮 Stats
+
 ![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-arain&show_icons=true&theme=tokyonight)
 
 ## 🌟 Thanks
